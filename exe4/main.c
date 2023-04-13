@@ -6,4 +6,6 @@ void main()
 
     scanf("%d", &numero);
     printf("Valor da variavel: %d\n", numero);
+    printf("valor")
 }
+  
